@@ -1,27 +1,7 @@
-Skip to content
-Sign up
-tigarto
-/
-Binary_trees
-Public
-forked from lroudge/Binary_trees
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Binary_trees/binary_tree_print.c
-@jasoncortella
-jasoncortella Initial commit p0
- 2 contributors
-99 lines (92 sloc)  2.21 KB
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "binary_trees.h"
-
-/* Original code from http://stackoverflow.com/a/13755911/5184480 */
 
 /**
  * print_t - Stores recursively each level in an array of strings
